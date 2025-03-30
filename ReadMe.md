@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a data science project focused on healthcare solutions.<br>  
+🔭 Currently working on a data science project focused on Natural Language Processing(NLP).<br>  
 🌱 Learning Tableau, Azure, R, Hadoop, and advanced ML/DL techniques.<br>  
 💬 Ask me about healthcare AI, transfer learning, or data analysis projects.<br>  
 ⚡ Fun fact: I’m a gaming enthusiast who thrives on completing challenges!
